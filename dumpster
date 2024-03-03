@@ -1,0 +1,204 @@
+<div class="container-fluid py-5">
+        <div class="container py-5">
+            <div class="text-center mb-5 wow fadeInUp" data-wow-delay=".3s">
+                <h5 class="mb-2 px-3 py-1 text-dark rounded-pill d-inline-block border border-2 border-primary">Our
+                    Services</h5>
+                <h1 class="display-5">Common Pest Control Services:</h1>
+            </div>
+            <div class="row g-5">
+                <div class="col-5 wow fadeInUp" data-wow-delay=".3s" style="width: 985.17em; height: 30em;">
+                    <div class="project-item-main">
+                        <div class="project-left bg-dark"
+                            style="width: 555px; height: 260px; top: 21%; left: -32%; rotate: 45deg;"></div>
+                        <div class="project-right bg-dark"
+                            style="width: 555px; height: 260px; top: 21%; right: -32%; rotate: -45deg;"></div>
+                        <img src="img/1-ant.png" class="img-fluid" alt="img" style="height: 88% ;width: 42%;">
+                        <a href="#" class="shift-left fs-5 fw-bold text-center">Ant Management Services</a>
+                        <div class="text-box">
+                            <p>Ants, as pests, invade homes in search of food and water, contaminating surfaces and
+                                causing property damage. They build nests in walls, foundations, and other hidden areas.
+                                Pest control manages ant infestations through identification, targeted treatments like
+                                baits and insecticides, and preventive measures such as sealing entry points. Regular
+                                inspections and maintenance help control ant populations and minimize damage.</p>
+                            <button onclick="redirectToPrice('Ant Management Services',1500)"
+                                class="px-2 py-2 btn btn-outline-success border-2 animated slideInDown"
+                                style="position: absolute; top: 85%; left: 75%;z-index: 3;border: 2px solid #71bf44;"><b>Book
+                                    Now!</b></button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-5 wow fadeInUp" data-wow-delay=".5s" style="width: 985.17em; height: 30em  ;">
+                    <div class="project-item-main">
+                        <div class="project-left bg-dark"
+                            style="width: 555px; height: 260px; top: 21%; left: -32%; rotate: 45deg;"></div>
+                        <div class="project-right bg-dark"
+                            style="width: 555px; height: 260px; top: 21%; right: -32%; rotate: -45deg;"></div>
+                        <img src="img/2-bedbug.png" class="img-fluid" alt="img" style="height: 88% ;width: 42%;">
+                        <a href="" class="shift-left fs-5 fw-bold text-center">Bedbug Management Services</a>
+                        <div class="text-box">
+                            <p>Ants, as pests, invade homes in search of food and water, contaminating surfaces and
+                                causing property damage. They build nests in walls, foundations, and other hidden areas.
+                                Pest control manages ant infestations through identification, targeted treatments like
+                                baits and insecticides, and preventive measures such as sealing entry points. Regular
+                                inspections and maintenance help control ant populations and minimize damage.</p>
+                            <button onclick="redirectToPrice('Bedbug Management Services',1500)"
+                                class="px-2 py-2 btn btn-outline-success border-2 animated slideInDown"
+                                style="position: absolute; top: 85%; left: 75%;z-index: 3;border: 2px solid #71bf44;"><b>Book
+                                    Now!</b></button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-5 wow fadeInUp" data-wow-delay=".5s" style="width: 985.17em; height: 30em  ;">
+                    <div class="project-item-main">
+                        <div class="project-left bg-dark"
+                            style="width: 555px; height: 260px; top: 21%; left: -32%; rotate: 45deg;"></div>
+                        <div class="project-right bg-dark"
+                            style="width: 555px; height: 260px; top: 21%; right: -32%; rotate: -45deg;"></div>
+                        <img src="img/3-bird.png" class="img-fluid" alt="img" style="height: 88% ;width: 42%;">
+                        <a href="" class="shift-left fs-5 fw-bold text-center">Bird Management Services</a>
+                        <div class="text-box">
+                            <p>Ants, as pests, invade homes in search of food and water, contaminating surfaces and
+                                causing property damage. They build nests in walls, foundations, and other hidden areas.
+                                Pest control manages ant infestations through identification, targeted treatments like
+                                baits and insecticides, and preventive measures such as sealing entry points. Regular
+                                inspections and maintenance help control ant populations and minimize damage.</p>
+                            <button onclick="redirectToPrice('Bird Management Services',1500)"
+                                class="px-2 py-2 btn btn-outline-success border-2 animated slideInDown"
+                                style="position: absolute; top: 85%; left: 75%;z-index: 3;border: 2px solid #71bf44;"><b>Book
+                                    Now!</b></button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-5 wow fadeInUp" data-wow-delay=".5s" style="width: 985.17em; height: 30em  ;">
+                    <div class="project-item-main">
+                        <div class="project-left bg-dark"
+                            style="width: 555px; height: 260px; top: 21%; left: -32%; rotate: 45deg;"></div>
+                        <div class="project-right bg-dark"
+                            style="width: 555px; height: 260px; top: 21%; right: -32%; rotate: -45deg;"></div>
+                        <img src="img/4-cock.png" class="img-fluid" alt="img" style="height: 88% ;width: 42%;">
+                        <a href="" class="shift-left fs-5 fw-bold text-center">Cockroach Management Services</a>
+                        <div class="text-box">
+                            <p>Ants, as pests, invade homes in search of food and water, contaminating surfaces and
+                                causing property damage. They build nests in walls, foundations, and other hidden areas.
+                                Pest control manages ant infestations through identification, targeted treatments like
+                                baits and insecticides, and preventive measures such as sealing entry points. Regular
+                                inspections and maintenance help control ant populations and minimize damage.</p>
+                            <button onclick="redirectToPrice('Cockroach Management Services',1500)"
+                                class="px-2 py-2 btn btn-outline-success border-2 animated slideInDown"
+                                style="position: absolute; top: 85%; left: 75%;z-index: 3;border: 2px solid #71bf44;"><b>Book
+                                    Now!</b></button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-5 wow fadeInUp" data-wow-delay=".5s" style="width: 985.17em; height: 30em  ;">
+                    <div class="project-item-main">
+                        <div class="project-left bg-dark"
+                            style="width: 555px; height: 260px; top: 21%; left: -32%; rotate: 45deg;"></div>
+                        <div class="project-right bg-dark"
+                            style="width: 555px; height: 260px; top: 21%; right: -32%; rotate: -45deg;"></div>
+                        <img src="img/5-Mosquito.png" class="img-fluid" alt="img" style="height: 88% ;width: 42%;">
+                        <a href="" class="shift-left fs-5 fw-bold text-center">Mosquito Management Services</a>
+                        <div class="text-box">
+                            <p>Ants, as pests, invade homes in search of food and water, contaminating surfaces and
+                                causing property damage. They build nests in walls, foundations, and other hidden areas.
+                                Pest control manages ant infestations through identification, targeted treatments like
+                                baits and insecticides, and preventive measures such as sealing entry points. Regular
+                                inspections and maintenance help control ant populations and minimize damage.</p>
+                            <button onclick="redirectToPrice('Mosquito Management Services',1500)"
+                                class="px-2 py-2 btn btn-outline-success border-2 animated slideInDown"
+                                style="position: absolute; top: 85%; left: 75%;z-index: 3;border: 2px solid #71bf44;"><b>Book
+                                    Now!</b></button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-5 wow fadeInUp" data-wow-delay=".5s" style="width: 985.17em; height: 30em  ;">
+                    <div class="project-item-main">
+                        <div class="project-left bg-dark"
+                            style="width: 555px; height: 260px; top: 21%; left: -32%; rotate: 45deg;"></div>
+                        <div class="project-right bg-dark"
+                            style="width: 555px; height: 260px; top: 21%; right: -32%; rotate: -45deg;"></div>
+                        <img src="img/6-Rodent.png" class="img-fluid" alt="img" style="height: 88% ;width: 42%;">
+                        <a href="" class="shift-left fs-5 fw-bold text-center">Rodent Management Services</a>
+                        <div class="text-box">
+                            <p>Ants, as pests, invade homes in search of food and water, contaminating surfaces and
+                                causing property damage. They build nests in walls, foundations, and other hidden areas.
+                                Pest control manages ant infestations through identification, targeted treatments like
+                                baits and insecticides, and preventive measures such as sealing entry points. Regular
+                                inspections and maintenance help control ant populations and minimize damage.</p>
+                            <button onclick="redirectToPrice('Rodent Management Services',1500)"
+                                class="px-2 py-2 btn btn-outline-success border-2 animated slideInDown"
+                                style="position: absolute; top: 85%; left: 75%;z-index: 3;border: 2px solid #71bf44;"><b>Book
+                                    Now!</b></button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-5 wow fadeInUp" data-wow-delay=".5s" style="width: 985.17em; height: 30em  ;">
+                    <div class="project-item-main">
+                        <div class="project-left bg-dark"
+                            style="width: 555px; height: 260px; top: 21%; left: -32%; rotate: 45deg;"></div>
+                        <div class="project-right bg-dark"
+                            style="width: 555px; height: 260px; top: 21%; right: -32%; rotate: -45deg;"></div>
+                        <img src="img/7-spider.png" class="img-fluid" alt="img" style="height: 88% ;width: 42%;">
+                        <a href="" class="shift-left fs-5 fw-bold text-center">Spider Management Services</a>
+                        <div class="text-box">
+                            <p>Ants, as pests, invade homes in search of food and water, contaminating surfaces and
+                                causing property damage. They build nests in walls, foundations, and other hidden areas.
+                                Pest control manages ant infestations through identification, targeted treatments like
+                                baits and insecticides, and preventive measures such as sealing entry points. Regular
+                                inspections and maintenance help control ant populations and minimize damage.</p>
+                            <button onclick="redirectToPrice('Spider Management Services',1500)"
+                                class="px-2 py-2 btn btn-outline-success border-2 animated slideInDown"
+                                style="position: absolute; top: 85%; left: 75%;z-index: 3;border: 2px solid #71bf44;"><b>Book
+                                    Now!</b></button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-5 wow fadeInUp" data-wow-delay=".5s" style="width: 985.17em; height: 30em  ;">
+                    <div class="project-item-main">
+                        <div class="project-left bg-dark"
+                            style="width: 555px; height: 260px; top: 21%; left: -32%; rotate: 45deg;"></div>
+                        <div class="project-right bg-dark"
+                            style="width: 555px; height: 260px; top: 21%; right: -32%; rotate: -45deg;"></div>
+                        <img src="img/8-terminate.png" class="img-fluid" alt="img" style="height: 88% ;width: 42%;">
+                        <a href="" class="shift-left fs-5 fw-bold text-center">Termite Management Services</a>
+                        <div class="text-box">
+                            <p>Ants, as pests, invade homes in search of food and water, contaminating surfaces and
+                                causing property damage. They build nests in walls, foundations, and other hidden areas.
+                                Pest control manages ant infestations through identification, targeted treatments like
+                                baits and insecticides, and preventive measures such as sealing entry points. Regular
+                                inspections and maintenance help control ant populations and minimize damage.</p>
+                            <button onclick="redirectToPrice('Termite Management Services',1500)"
+                                class="px-2 py-2 btn btn-outline-success border-2 animated slideInDown"
+                                style="position: absolute; top: 85%; left: 75%;z-index: 3;border: 2px solid #71bf44;"><b>Book
+                                    Now!</b></button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-5 wow fadeInUp" data-wow-delay=".5s" style="width: 985.17em; height: 30em  ;">
+                    <div class="project-item-main">
+                        <div class="project-left bg-dark"
+                            style="width: 555px; height: 260px; top: 21%; left: -32%; rotate: 45deg;"></div>
+                        <div class="project-right bg-dark"
+                            style="width: 555px; height: 260px; top: 21%; right: -32%; rotate: -45deg;"></div>
+                        <img src="img/wood-borde.png" class="img-fluid" alt="img" style="height: 88% ;width: 42%;">
+                        <a href="" class="shift-left fs-5 fw-bold text-center">Wood Borer Management Services</a>
+                        <div class="text-box">
+                            <p>Ants, as pests, invade homes in search of food and water, contaminating surfaces and
+                                causing property damage. They build nests in walls, foundations, and other hidden areas.
+                                Pest control manages ant infestations through identification, targeted treatments like
+                                baits and insecticides, and preventive measures such as sealing entry points. Regular
+                                inspections and maintenance help control ant populations and minimize damage.</p>
+                            <button onclick="redirectToPrice('Wood Borer Management Services',1500)"
+                                class="px-2 py-2 btn btn-outline-success border-2 animated slideInDown"
+                                style="position: absolute; top: 85%; left: 75%;z-index: 3;border: 2px solid #71bf44;"><b>Book
+                                    Now!</b></button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+    // till here is the services section
